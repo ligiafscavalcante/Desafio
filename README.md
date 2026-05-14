@@ -105,4 +105,4 @@ Caso manual:
 ---
 
 ## 👩‍💻 Autor
-Seu nome
+Lígia Cavalcante
